@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Tyler Masterson"
 date: "Data 2401"
 output: html_document
 ---
@@ -31,4 +31,31 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
+
+## Wise Words
+
+A friend once said:
+
+>Life ain't fair.
+
+[id]: https://quotessayings.net/topics/life-aint-fair/
+
+## My semester
+
+**Course Number** | *Course Title* | instructor name
+------------------|----------------|----------------
+ 2401             | Data           | Shoemaker
+ 1303             | Psy            | Stevens
+ 1311             | CS             | Kamoto
+ 1301             | Art            | Kress
  
+## I recommend Zach Bryan
+
+```
+The Good I'll do.
+```
+1. Something in the Orange
+2. Someday
+3. Oklahoma City
+
+
