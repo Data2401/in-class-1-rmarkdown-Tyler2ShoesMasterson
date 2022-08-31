@@ -38,7 +38,7 @@ A friend once said:
 
 >Life ain't fair.
 
-[id]: https://quotessayings.net/topics/life-aint-fair/
+[linked phrase][id]: https://quotessayings.net/topics/life-aint-fair/
 
 ## My semester
 
