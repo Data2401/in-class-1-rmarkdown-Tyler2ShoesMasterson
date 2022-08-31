@@ -44,10 +44,10 @@ A friend once said:
 
 **Course Number** | *Course Title* | instructor name
 ------------------|----------------|----------------
- 2401             | Data           | Shoemaker
- 1303             | Psy            | Stevens
- 1311             | CS             | Kamoto
- 1301             | Art            | Kress
+ **2401**         | *Data*         | Shoemaker
+ **1303**         | *Psy*          | Stevens
+ **1311**         | *CS*           | Kamoto
+ **1301**         | *Art*          | Kress
  
 ## I recommend Zach Bryan
 
